@@ -1,5 +1,7 @@
 # UWB-AEC-trust-dataset
-In our lab-environment we set-up 8 custom DW1000-based UWB anchors, together with one tag. The tag was mounted on the train of a model railway. The railway tracks were adjusted according to the planed trajectory using a laser range finder. A sketch of the floor plan will be added to the repo soon.<br>
+In our lab-environment we set-up 8 custom DW1000-based UWB anchors, together with one tag. The tag was mounted on the train of a model railway. The railway tracks were adjusted according to the planed trajectory using a laser range finder. A sketch of the floor plan will be added to the repo soon.
+
+
 ![Measurement setup](figures/labroom.jpg)
 
 ## Check also our other papers
