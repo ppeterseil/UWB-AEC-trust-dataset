@@ -1,0 +1,12 @@
+tag_static_position = {
+	'21' : 1.53
+	'22' : 1.90
+	'23' : 1.53
+	'24' : 2.35
+	'25' : 3.01
+	'26' : 3.00
+	'27' : 2.82
+	'28' : 3.85
+}
+
+Ground truth distances from tag to anchors (21, .., 28) in scenario "calibration". The ground truth distance should (more or less) also be correct for all other static scenarios.
